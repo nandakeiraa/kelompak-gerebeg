@@ -1,8 +1,1 @@
-<<<<<<< HEAD
 1. nanda prasetyo
-4. deas doang saja
-=======
-1. Nanda prasetyo
-2. Muhammad deas
-3. Zaenal aripin
->>>>>>> b0fefcfaac12ca8b51834fcc4e1235f0837e7827
